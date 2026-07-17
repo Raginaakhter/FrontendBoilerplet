@@ -35,7 +35,7 @@ export default function HeroSection() {
                 </h1>
                 <p className="text-lg md:text-xl text-white/90 max-w-md my-10">
                   Safe, fast, and reliable deliveries—our platform connects you.
-                  to the fastest routes and top-tier couriers.
+                  to the fastest routes and top-tier couriers. in timenjjjjjkmm this <time></time>
                 </p>
               </div>
               <button className="bg-transparent border-1 cursor-pointer border-white text-white hover:bg-[#EF6820] hover:border-transparent hover:text-white px-8 py-3 rounded-[8px] text-lg font-semibold">
