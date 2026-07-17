@@ -35,7 +35,7 @@ export default function HeroSection() {
                 </h1>
                 <p className="text-lg md:text-xl text-white/90 max-w-md my-10">
                   Safe, fast, and reliable deliveries—our platform connects you.
-                  to the fastest routes and top-tier couriers. in gfffn ghyuyuydgee56 fuyrtr67r67 this <time></time>
+                  to the fastestop-tier couriers. in gfffn ghyuyuydgee56 fuyrtr67r67 this <time></time>
                   and ensure, every time.
                 </p>
               </div>
