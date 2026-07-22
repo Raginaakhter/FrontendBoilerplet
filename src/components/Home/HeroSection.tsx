@@ -1,4 +1,4 @@
-import heroImage from "../../assets/Home/heroImage.png";
+import heroImage from "@/assets/images/hero-image.png";
 
 import { Link } from "react-router-dom";
 
